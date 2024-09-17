@@ -1,0 +1,18 @@
+test 149 / 354
+
+"mississippi"
+"mis*is*p*."
+
+output true
+Expected false
+
+test 224 / 354
+
+"mississippi"
+"mis*is*ip*."
+
+output false
+Expected true
+
+
+
